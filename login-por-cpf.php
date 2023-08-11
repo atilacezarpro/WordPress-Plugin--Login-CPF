@@ -2,6 +2,8 @@
 /*
 Plugin Name: Custom Logout and CPF Login
 Description: Plugin para adicionar um shortcode de logoff personalizado e login com CPF.
+Version: 1.0.0
+Author: Atila Rodrigues
 */
 
 // Cria uma página de login personalizada
